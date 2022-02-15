@@ -18,5 +18,3 @@ class Base extends StatelessWidget {
       );
   }
 }
-
-
