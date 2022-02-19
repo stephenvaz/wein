@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911160502491",
+    "project_id": "wein-b7d48",
+    "storage_bucket": "wein-b7d48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911160502491:android:c3911aa6bb8fb665fdc4fe",
+        "android_client_info": {
+          "package_name": "com.example.wein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911160502491-eub58amv2clkp70alcsm1lsf7k2f3edh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPdz35lbwAO3KHnRxvSoLPiP285A0obHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911160502491-eub58amv2clkp70alcsm1lsf7k2f3edh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
