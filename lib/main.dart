@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:wein/constants/constants.dart';
 import 'package:wein/pages/login.dart';
 
 void main() {
@@ -13,6 +14,7 @@ class Base extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
+      color: kPrimaryColor,
       title: 'Wein',
       home: LoginBase(),
       );

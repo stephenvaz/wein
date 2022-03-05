@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:wein/pages/home.dart';
 import 'package:wein/pages/signup.dart';
+import 'package:wein/pages/home.dart';
 
 class LoginBase extends StatefulWidget {
   const LoginBase({Key? key}) : super(key: key);
@@ -22,7 +24,7 @@ class _LoginBaseState extends State<LoginBase> {
               onPressed: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => const SignUpBase()),
+                  MaterialPageRoute(builder: (context) => const HomePage()),
                 );
               },
               child: const Text('Login Page, Sign Up')),
