@@ -3,6 +3,7 @@ import 'package:wein/constants/constants.dart';
 
 import 'body.dart';
 
+class HomePage extends StatefulWidget {
   const HomePage({ Key? key }) : super(key: key);
 
   @override
