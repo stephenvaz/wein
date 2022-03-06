@@ -42,7 +42,8 @@ class Body extends StatelessWidget {
                 enabledBorder: InputBorder.none,
                 focusedBorder: InputBorder.none,
                 suffixIcon: const Icon(Icons.search)
-              ),),
+              ),
+              ),
               )
               )
             ],
